@@ -6,7 +6,7 @@
 
 <h3>Testing Tomcat!!!</h3>
   
-  <h3> Tomcat Working....!!! </h3>
+  <h3> Deployed on tomcat....!!! </h3>
 
 </body>
 </html>
